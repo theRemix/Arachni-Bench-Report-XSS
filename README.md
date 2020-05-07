@@ -4,13 +4,13 @@ Arachni report of owasp benchmark xss
 
 ## Live report
 
-[https://theRemix.github.io/arachni-bench-report-xss](https://theRemix.github.io/arachni-bench-report-xss)
+[https://theremix.github.io/Arachni-Bench-Report-XSS/](https://theremix.github.io/Arachni-Bench-Report-XSS/)
 
-## [OWASP Benchmark](https://owasp.org/www-project-benchmark/)
+## OWASP Benchmark
 
 https://owasp.org/www-project-benchmark/
 
-## [Arachni](https://www.arachni-scanner.com/)
+## Arachni
 
 https://www.arachni-scanner.com/
 
